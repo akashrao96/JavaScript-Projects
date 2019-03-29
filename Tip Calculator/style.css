@@ -1,0 +1,56 @@
+body{
+    
+     vertical-align:middle;
+    
+}
+#container{
+    position: relative;
+    text-align: center;
+    background-image: url(restaurant.jpg);
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 100%;
+    
+}
+header h1{
+    padding: 10px;
+
+    color:white;
+    font-size: 40px;
+}
+form p{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+}
+#bill{
+    height: 30px;
+    background-color:rgba(114, 106, 35, 0.315);
+    color: white;
+
+}
+#serviceQuality{
+    height: 30px;
+    background-color:rgba(114, 106, 35, 0.315);
+    color:white;
+
+}
+#quantity{
+    height: 30px;
+    background-color:rgba(114, 106, 35, 0.315);
+    color: white;
+
+}
+#btn{
+    padding:0.5rem 1rem;
+    background-color:rgba(114, 106, 35, 0.315);
+    color:white;
+}
+#info{
+    color:white;
+    text-align:left;
+    margin-left: 30px;
+}
