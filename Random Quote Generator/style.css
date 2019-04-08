@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    position: relative;
+    text-align:center;
+    background-image: url(./body.jpg);
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 100px;
+    
+
+}
+#container{
+    padding: 0px auto;
+    max-height: 250px;
+    
+    
+}
+#container h1{
+    padding: 20px;
+    font-size: 2.5rem;
+
+}
+button{
+        font-family:Arial, Helvetica, sans-serif;
+        opacity: 0.8;
+        text-decoration: none;
+        color:black;
+        padding: 0.6rem 1.2rem;
+        font-size: 1rem;
+        background-color: rgba(193, 200, 214, 0.37);
+        margin: auto;
+
+    
+}
+#box{
+   
+    
+    padding: 20px;
+}
+
+#icons {
+    padding: 30px;
+
+}
+
+button:hover{
+    background-color:rgba(48, 49, 110, 0.897) ;
+		color: white;
+
+}
+
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  /*Whatsapp*/
+  .fa-whatsapp{
+    background: #33CC66;
+    color: white;
+  }
