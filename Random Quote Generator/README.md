@@ -1,6 +1,6 @@
 # Random Quote Machine
 
-A wonderful tool to Kickstart your Day with a new inspiration and ideas.
+A wonderful tool to Kickstart your Day with a new inspiration and ideas and share with your loved ones on social media like twitter,facebook and whatsapp.Have a nice day!!
 
 ## Technology Stack
 
